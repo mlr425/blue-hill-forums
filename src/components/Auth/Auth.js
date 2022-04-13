@@ -157,7 +157,7 @@ const Auth = () => {
           </Button>
           {isLogin ? null : (
             <GoogleLogin
-              clientId="573343114606-520b5b9deeq1e4tg73ooqgo9d2helh3h.apps.googleusercontent.com"
+              clientId="1082770669865-7dorvtgedqcqna7dl18uhe191jcuddfv.apps.googleusercontent.com"
               render={(renderProps) => (
                 <Button
                   color="primary"
