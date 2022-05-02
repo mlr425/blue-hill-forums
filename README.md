@@ -1,11 +1,11 @@
 # Blue Hill Forums (MERN Stack)
 
 What is Blue Hill Forums?\
-Blue Hill Forums is a website where people can post about things they find interesting and make comments.\
+Blue Hill Forums is a website where people can post about things they find interesting and make comments.
 
 Visit the website: [https://curious-sunshine-bb18a5.netlify.app/posts](https://curious-sunshine-bb18a5.netlify.app/posts).\
 Hosted for free on Heroku & Netlify.\
-Please allow time for the website to load.\
+Please allow time for the website to load.
 
 Repo for backend: [https://github.com/mlr425/blue-hill-forums-backend](https://github.com/mlr425/blue-hill-forums-backend).
 
