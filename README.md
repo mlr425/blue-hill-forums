@@ -1,9 +1,9 @@
 # Blue Hill Forums (MERN Stack)
 
-Visit the website: [https://curious-sunshine-bb18a5.netlify.app/posts](https://curious-sunshine-bb18a5.netlify.app/posts)
-Hosted for free on Heroku & Netlify. 
-Please allow time for the website to load.
-Repo for backend: [https://github.com/mlr425/blue-hill-forums-backend](https://github.com/mlr425/blue-hill-forums-backend)
+Visit the website: [https://curious-sunshine-bb18a5.netlify.app/posts](https://curious-sunshine-bb18a5.netlify.app/posts).\
+Hosted for free on Heroku & Netlify.\
+Please allow time for the website to load.\
+Repo for backend: [https://github.com/mlr425/blue-hill-forums-backend](https://github.com/mlr425/blue-hill-forums-backend).\
 
 
 ## Available Scripts
