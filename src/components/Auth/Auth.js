@@ -40,6 +40,9 @@ const Auth = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     if (isLogin) {
+      //before we dispatch, lets do a check here on our form data to make sure its all valid
+      //just username & pw
+
       dispatch(register(formData, navigate, setCredentialError));
     } else {
       dispatch(login(formData, navigate, setCredentialError));
@@ -49,6 +52,7 @@ const Auth = () => {
   const handleChange = (e) => {
     //when user retypes their, reset error message
     setCredentialError(null);
+    
 
     //change the object(user)
     setFormData({
@@ -126,7 +130,7 @@ const Auth = () => {
             )}
             <Input
               name="email"
-              label="Email Adress"
+              label="Email Address"
               handleChange={handleChange}
               type="email"
             />
